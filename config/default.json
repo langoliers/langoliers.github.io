@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://dbUser01:dbPass01@cluster0-88u0e.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI_1": "mongodb://localhost/newDb1",
+    "baseUrl": "http://localhost:5000"
+}
+

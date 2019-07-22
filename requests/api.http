@@ -1,0 +1,15 @@
+
+
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.terlici.com/2015/04/03/mongodb-node-express.html"
+}
+
+# POST http://localhost:5000/api/url/shorten
+# Content-Type: application/json
+
+# {
+#     "longUrl": "https://bt.rozetka.com.ua/atlantic_vertigo_steatite_30mp025f220_2_ec_1000w/p12295319/"
+# }
