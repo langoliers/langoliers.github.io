@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dbUser01:dbPass01@cluster0-88u0e.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "https://morning-beyond-42401.herokuapp.com"
+}
